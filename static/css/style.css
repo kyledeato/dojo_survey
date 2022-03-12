@@ -1,0 +1,12 @@
+body {
+    background-color: #6b7b8c;
+}
+.container {
+    color: white;
+    background-color: #3b4d61;
+    padding: 20px;
+}
+
+form {
+    padding: 20px 0;
+}
